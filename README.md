@@ -22,14 +22,14 @@ Light(300), Regular(400), Bold(700), Extra Bold(800)이 지원됩니다.
 <link
 	rel="stylesheet"
 	type="text/css"
-	href="https://cdn.jsdelivr.com/gh/loplat/NanumSquareRound@master/nanumsquareround.min.css"
+	href="https://cdn.jsdelivr.net/gh/loplat/NanumSquareRound@main/nanumsquareround.css"
 />
 ```
 
 ## import 방식
 
 ```css
-@import url('https://cdn.jsdelivr.com/gh/loplat/NanumSquareRound@master/nanumsquareround.min.css');
+@import url('https://cdn.jsdelivr.net/gh/loplat/NanumSquareRound@main/nanumsquareround.css');
 ```
 
 ### 링크
@@ -38,13 +38,13 @@ Light(300), Regular(400), Bold(700), Extra Bold(800)이 지원됩니다.
 
 Light(300), Regular(400), Bold(700), Extra Bold(800) 모두 지원됩니다.
 
-https://cdn.jsdelivr.net/gh/loplat/NanumSquareRound@master/nanumsquareround.css
+https://cdn.jsdelivr.net/gh/loplat/NanumSquareRound@main/nanumsquareround.css
 
 #### 최소버젼
 
 Regular(400), Bold(700) 만 가져옵니다.
 
-https://cdn.jsdelivr.net/gh/loplat/NanumSquareRound@master/nanumsquareround.min.css
+https://cdn.jsdelivr.net/gh/loplat/NanumSquareRound@main/nanumsquareround.min.css
 
 ## css 적용 방법
 
